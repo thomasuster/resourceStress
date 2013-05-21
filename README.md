@@ -1,4 +1,7 @@
 resourceStress
 ==============
 
-Demonstration of either HXCPP, haxe.resource, or munit problem
+1) munit test -cpp 
+2) Observe a strange runtime error half way through
+
+Help!
